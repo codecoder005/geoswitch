@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: geoswitch
+  profiles:
+    active:
+      - local
